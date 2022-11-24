@@ -17,7 +17,7 @@ This is an example of a list
 
 This is how to link something
 
-[youtube.com]
+[https://www.youtube.com/]
 
 This is how to put an image in
 
